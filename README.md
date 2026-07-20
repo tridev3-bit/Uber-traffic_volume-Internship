@@ -1,4 +1,4 @@
-# Traffic Volume Prediction using Machine Learning
+# Traffic Volume Prediction using Machine Learning (Random Forest Regression)
 
 ## Project Overview
 This project predicts hourly traffic volumes at different road junctions using historical traffic data.
